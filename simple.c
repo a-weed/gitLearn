@@ -7,5 +7,7 @@ int main() {
 	 x = 420;
 	 x = 69;
 	 i = 420;
-	string testing = "This is a test of my stupidity";
+	string testing = "This is a test of my stupidityn
+	char camIsDumbDumb[] = "THAT HE IS";
+
 }
