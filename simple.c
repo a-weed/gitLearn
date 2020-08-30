@@ -19,5 +19,6 @@ int main() {
 
 
 	return 0;
-
+	 i = 420;
+	char camIsDumbDumb[] = "THAT HE IS";
 }
