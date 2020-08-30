@@ -7,5 +7,11 @@ int main() {
 	 x = 420;
 	 x = 69;
 	 i = 420;
-	string testing = "This is a test of my stupidity";
+	char testing[] = "This is a test of my stupidity";
+	char rein[] = " Reinforcement learning is fun, right?";
+
+
+
+
+
 }
