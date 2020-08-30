@@ -6,12 +6,16 @@ int main() {
 	 x = 420;
 	 x = 69;
 	 i = 420; 
-	char testing[] = "This is a test of my stupidity";
-	char rein[] = " Reinforcement learning is fun, right?";
-	for (i+1; i>0;i--) {
+	int testInt = 421;
+ 	char testing[] = "This is a test of my stupidity";
+	for (; i>0;i--) {
 		printf("Your int is: %d\n", i);
 	}
-
+	while (testInt > 420) {
+		printf("Enter an int: ");
+		scanf("%d", &testInt);
+		printf("You set testInt equal to: %d", testInt);
+	}
 
 
 	return 0;
